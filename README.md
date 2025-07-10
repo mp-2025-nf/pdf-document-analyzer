@@ -8,6 +8,12 @@ A sophisticated Python application that leverages cutting-edge AI technologies t
 
 The PDF Document Analyzer represents a complete solution for intelligent document processing, combining advanced text extraction, semantic understanding, and conversational AI to deliver enterprise-grade document analysis capabilities.
 
+<img width="1906" height="917" alt="image" src="https://github.com/user-attachments/assets/a459f002-ff7f-460f-9b94-38ece0cde1ea" />
+
+<img width="1908" height="900" alt="image" src="https://github.com/user-attachments/assets/5653c925-9d81-4088-81c5-ce3d20d156ca" />
+
+
+
 ### **Key Capabilities**
 - **Intelligent Text Extraction** - Advanced PDF processing with smart chunking
 - **Semantic Understanding** - AI-powered document comprehension
